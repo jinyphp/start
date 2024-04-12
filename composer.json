@@ -18,7 +18,28 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^8.1"
+        "php": "^8.1",
+        "jiny/admin": "^0.0.1",
+        "jiny/auth": "^0.0.1",
+        "jiny/config": "^0.0.1",
+        "jiny/fortify": "^0.0.1",
+        "jiny/html": "^0.0.1",
+        "jiny/icons": "^0.0.1",
+        "jiny/laravel": "^0.0.1",
+        "jiny/locale": "^0.0.1",
+        "jiny/manual": "^0.0.1",
+        "jiny/modules": "^0.0.1",
+        "jiny/permit": "^0.0.1",
+        "jiny/profile": "^0.0.1",
+        "jiny/theme": "^0.0.1",
+        "jiny/ui": "^0.0.1",
+        "jiny/ui2": "^0.0.1",
+        "jiny/users": "^0.0.1",
+        "jiny/widgets": "^0.0.1",
+        "jiny/wiretable": "^0.0.1",
+        
+        "livewire/livewire": "^3.4",
+        "mobiledetect/mobiledetectlib": "^4.8"
     },
     "autoload": {
         "psr-4": {
